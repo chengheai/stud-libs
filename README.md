@@ -32,7 +32,7 @@
 
 ## 包管理
 
-* [yarn](https://github.com/yarnpkg/yarn) - 我用这个。
+* [yarn](https://github.com/yarnpkg/yarn)
 * [npm](https://github.com/npm/cli)
 
 ## babel
@@ -61,9 +61,10 @@
 * [next.js](https://github.com/zeit/next.js)
 * [nuxt.js](https://github.com/nuxt/nuxt.js)
 * [gastby](https://github.com/gatsbyjs/gatsby)
-* [umi](https://github.com/umijs/umi) - 蚂蚁金服的前端框架，我目前在维护。
-* [choo](https://github.com/choojs/choo) - dva 最初的 API 是参考这个实现的，已经不怎么发展了，再关注一段时间。
+* [umi](https://github.com/umijs/umi)
+* [choo](https://github.com/choojs/choo)
 * [taro](https://github.com/NervJS/taro) - 用 React 写小程序，适配微信和支付宝等。
+* [taro](https://github.com/Meituan-Dianping/mpvue) - 用 Vue 写小程序。
 * [after.js](https://github.com/jaredpalmer/after.js)
 
 ## react 相关库
@@ -98,7 +99,7 @@
 * [mobx](https://github.com/mobxjs/mobx)
 * [unstated](https://github.com/jamiebuilds/unstated)
 * [rxjs](https://github.com/ReactiveX/rxjs)
-* [dva](https://github.com/dvajs/dva) - 我写的数据流，基于 redux。
+* [dva](https://github.com/dvajs/dva)
 * [rematch](https://github.com/rematch/rematch) - 基于 redux。
 * [vuex](https://github.com/vuejs/vuex)
 * [ngrx](https://github.com/ngrx/platform)
@@ -149,7 +150,7 @@
 ## 编辑器
 
 * [VSCode](https://code.visualstudio.com/)
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 我用这个。
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [codesandbox](https://codesandbox.io/)
 * [stackblitz](https://stackblitz.com/)
 
