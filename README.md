@@ -68,7 +68,7 @@
 * [umi](https://github.com/umijs/umi)
 * [choo](https://github.com/choojs/choo)
 * [taro](https://github.com/NervJS/taro) - 用 React 写小程序，适配微信和支付宝等。
-* [taro](https://github.com/Meituan-Dianping/mpvue) - 用 Vue 写小程序。
+* [mpvue](https://github.com/Meituan-Dianping/mpvue) - 用 Vue 写小程序。
 * [after.js](https://github.com/jaredpalmer/after.js)
 
 ## react 相关库
